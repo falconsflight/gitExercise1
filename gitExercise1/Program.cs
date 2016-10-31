@@ -15,6 +15,10 @@ namespace gitExercise1
             Console.WriteLine("Here is another line!");
             Console.WriteLine("Here is yet another line!");
             Console.WriteLine("");
+            Console.WriteLine("Second set of changes to Main"");
+            Console.WriteLine("I'm back!");
+            Console.WriteLine("This is pointless...");
+            Console.WriteLine("WHY?!?!?!?!");
         }
     }
 }
