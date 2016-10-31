@@ -20,6 +20,8 @@ namespace gitExercise1
             Console.WriteLine("I'm back!");
             Console.WriteLine("This is pointless...");
             Console.WriteLine("WHY?!?!?!?!");
+            Console.WriteLine("");
+            Console.WriteLine("I've finally finished.");
         }
     }
 }
