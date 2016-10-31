@@ -12,6 +12,9 @@ namespace gitExercise1
         {
             Console.WriteLine("hello from Main!");
             MyClass.hello();
+            Console.WriteLine("Here is another line!");
+            Console.WriteLine("Here is yet another line!");
+            Console.WriteLine("");
         }
     }
 }
